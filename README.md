@@ -1,1 +1,4 @@
-# notes
+### Notes
+
+Contents:
+- Dasar Informatika
